@@ -1,0 +1,13 @@
+csv
+poetry.lock
+__pycache__
+*.pyc
+
+#Ignore the virtual environment
+.venv
+.env
+
+dist/
+*.log*
+
+*.csv
